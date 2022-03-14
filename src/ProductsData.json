@@ -1,0 +1,148 @@
+[
+    {
+      "id": 1,
+      "brand": "zara",
+      "price": 699,
+      "gender": "men",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16975760/2022/1/29/35d0cec2-1a4f-40e6-9d6d-01ef43b5abc01643453941892CrimsouneClubMenMaroonSlimFitCasualShirt1.jpg",
+      "img2":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16975760/2022/1/29/64fd8830-5586-4bcd-9794-7df87d1920011643453941567CrimsouneClubMenMaroonSlimFitCasualShirt7.jpg",
+      "description": "Maroon solid opaque Casual shirt ,has a spread collar, button placket, 1 patch pocket, long regular sleeves, curved hem",
+      "size": [34, 35, 36],
+      "category": "shirt",
+      "title": "slim casual shirt",
+      "visible":"true"
+    },
+    {
+      "id": 2,
+      "brand": "harvard",
+      "price": 799,
+      "gender": "men",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14850640/2021/7/16/7908af9b-878e-4cec-8f3a-ba6d2c77f0281626415843126CAVALLObyLinenClubMenTurquoiseBluePrintedCasualShirt1.jpg",
+      "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14850640/2021/7/16/2c4d88b6-2ac7-4417-acdf-61c5d879e51a1626415843388CAVALLObyLinenClubMenTurquoiseBluePrintedCasualShirt2.jpg",
+      "description": "Blue solid opaque Casual shirt, has a spread collar, button placket, 1 patch pocket, long regular sleeves, curved hem",
+      "size": [34, 35, 36],
+      "category": "sleep shirt",
+      "title": "semi-sheer casual shirt"
+    },
+    {
+      "id": 3,
+      "brand": "roadster",
+      "price": 3999,
+      "gender": "men",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16975766/2022/2/3/0006d284-e31c-49df-8568-989a66ce0dd01643867979288CrimsouneClubMenMulticolouredSlimFitTartanChecksCheckedCasua1.jpg",
+      "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16975766/2022/2/3/c34d463a-4d8c-4c5a-9919-36f4f5b6abc61643867979309CrimsouneClubMenMulticolouredSlimFitTartanChecksCheckedCasua2.jpg",
+      "description": "Blue tartan checks checked opaque Casual shirt ,has a spread collar, button placket, 1 patch pocket, short regular sleeves, curved hem",
+      "size": [34, 35, 36],
+      "category": "dog shirt",
+      "title": "solid casual shirt"
+    },
+    {
+      "id": 4,
+      "brand": "harvard",
+      "price": 499,
+      "gender": "men",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17001290/2022/2/28/4db12665-7eb4-4fc0-84ae-aa9079e0de241646024708071-Marks--Spencer-Men-Pack-of-2-Blue-Formal-Shirts-612164602470-1.jpg",
+      "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17001290/2022/2/28/9d55ca84-7bed-4c5c-9011-d79760bba0291646024708052-Marks--Spencer-Men-Pack-of-2-Blue-Formal-Shirts-612164602470-2.jpg",
+      "description": "Blue solid opaque Formal shirt ,has a spread collar, button placket, long regular sleeves",
+      "size": [34, 35, 36],
+      "category": "shirt",
+      "title": "Mens Casual Slim Fit"
+    },
+    {
+      "id": 5,
+      "brand": "wrogn",
+      "price": 695,
+      "gender": "others",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17055248/2022/2/4/60d73698-2349-4e49-b133-1687cb6d44bb1643981193261PantaloonsJuniorBoysRedTartanChecksCheckedCasualShirt1.jpg",
+      "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17055248/2022/2/4/acfa6f92-242d-4f53-840b-865152914e0c1643981193250PantaloonsJuniorBoysRedTartanChecksCheckedCasualShirt2.jpg",
+      "description": "Red tartan checks checked opaque Casual shirt ,has a hooded, button placket, short regular sleeves, curved hem",
+      "size": [34, 35, 36],
+      "category": "dog shirt", 
+      "title": "check hooded casual shirt"
+    },
+    {
+      "id": 6,
+      "brand": "parx",
+      "price": 860,
+      "gender": "others",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17042648/2022/2/4/2a070e07-7233-4053-a599-be6d199892071643913420303CAVIOBoysBlackPartyShirt1.jpg",
+      "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17042648/2022/2/4/0a25af0d-b709-49c6-bdfd-120819b0c0a51643913420296CAVIOBoysBlackPartyShirt2.jpg",
+      "description": "Black solid opaque Casual shirt ,has a spread collar, button placket, long regular sleeves, curved hem",
+      "size": [34, 35, 36],
+      "category": "shirt",     
+      "title": "boys casual shirt"
+    },
+    {
+      "id": 7,
+      "brand": "zara",
+      "price": 999,
+      "gender": "others",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15992718/2021/12/29/a46f868a-34ca-45ab-a0cb-541c317a73ab1640760465599-Ed-a-Mamma-Boys-Off-White--Navy-Blue-Premium-Opaque-Striped--2.jpg",
+      "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15992718/2021/11/2/926d59b4-d928-4dee-b707-77f592d7ef3d1635868715277Ed-a-MammaBoysOffWhitePremiumHorizontalStripesOpaqueStripedC2.jpg",
+      "description": "Off white & navy blue horizontal stripes striped opaque casual shirt ,has a mandarin collar, button placket, 2 flap pockets, long roll-up sleeves, curved hem",
+      "size": [34, 35, 36],
+      "category": "sleep shirt",  
+      "title": "pure cotton casual shirt"
+    },
+    {
+      "id": 8,
+      "brand": "zara",
+      "price": 499,
+      "gender": "others",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17048280/2022/2/4/51160e94-b9c6-48de-b22e-614f12122a8d1643970139625maxBoysBluePrintedCasualShirt1.jpg",
+      "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17048280/2022/2/4/2db00312-191b-4cf0-9dc9-e1b81ac45f6c1643970139272maxBoysBluePrintedCasualShirt2.jpg",
+      "description": "Blue conversational printed opaque Casual shirt ,has a spread collar, button placket, 1 welt pocket, short regular sleeves, curved hem",
+      "size": [34, 35, 36],
+      "category": "dog shirt",  
+      "title": "casual shirt"
+    },
+    {
+      "id": 9,
+      "brand": "roadster",
+      "price": 649,
+      "gender": "others",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16983282/2022/1/29/9ec6d678-3fff-421c-b169-a9e5f6a8246b1643475472500ATUNBoysYellowClassicFloralPrintedCasualShirt1.jpg",
+      "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16983282/2022/1/29/faec9bbb-fdcf-49e9-9fde-ece7a8f4963d1643475472234ATUNBoysYellowClassicFloralPrintedCasualShirt2.jpg",
+      "description": "Yellow floral printed opaque Casual shirt ,has a spread collar, button placket, long regular sleeves, curved hem",
+      "size": [34, 35, 36],
+      "category": "sleep shirt",
+      "title": "cotton chambary casual shirt"
+    },
+    {
+      "id": 10,
+      "brand": "harvard",
+      "price": 1099,
+      "gender": "women",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198496/2021/8/19/126b021c-9fe8-4924-9814-9bc06f8600811629368510776Oversizedcottonshirt1.jpg",
+      "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198496/2021/8/19/0113fe57-7365-4615-9e5b-29d20f344ced1629368510575Oversizedcottonshirt2.jpg",
+      "description": "Oversized shirt in an airy cotton weave with a collar, buttons down the front, a yoke at the back, and an open chest pocket. Dropped shoulders, long sleeves with buttoned cuffs, and a gently rounded hem. Slightly longer at the back.",
+      "size": [34, 35, 36],
+      "category": "dog shirt", 
+      "title": "pure cotton casual shirt"
+    },
+    {
+      "id": 11,
+      "brand": "wrogn",
+      "price": 909,
+      "gender": "women",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957408/2022/1/28/0cfc9a8c-bea8-4d45-b23c-0c6b343706061643343225264Checkedshirt1.jpg",
+      "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957408/2022/1/28/385ea3af-3859-4b72-83cc-269a2ec03c301643343225252Checkedshirt2.jpg",
+      "description": "Checked shirt in a soft cotton weave with a collar, buttons down the front and an open chest pocket. Dropped shoulders and long sleeves with buttoned cuffs.",
+      "size": [34, 35, 36],
+      "category": "shirt",
+      "title": "casual shirt"
+    },
+    {
+      "id": 12,
+      "brand": "wrogn",
+      "price": 1149,
+      "gender": "women",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/2/25/5c955ce6-7253-49b0-a0e3-5bb37d76f9ec1614259860112-1.jpg",
+      "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/2/25/1f434f81-7d19-466e-aee5-3243ee6954be1614259860130-2.jpg",
+      "description": "Oversized shirt in an airy cotton weave with a collar, buttons down the front, a yoke at the back, and an open chest pocket. Dropped shoulders, long sleeves with buttoned cuffs, and a gently rounded hem. Slightly longer at the back.",
+      "size": [34, 35, 36],
+      "category": "sleep shirt", 
+      "title": "casual shirt"
+    }
+  ]
+  
